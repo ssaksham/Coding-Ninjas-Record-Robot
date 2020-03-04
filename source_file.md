@@ -1,3 +1,7 @@
+// Owned by - Saksham Sharma
+// Version - 1.0
+// 3/4/2020
+
 var jqry = document.createElement('script');
 jqry.src = "https://code.jquery.com/jquery-3.3.1.min.js";
 document.getElementsByTagName('head')[0].appendChild(jqry);
